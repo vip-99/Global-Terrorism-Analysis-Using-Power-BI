@@ -70,3 +70,16 @@ This project is concerned with global terrorism data that is over the past few d
 
 
 
+
+
+
+
+
+
+
+
+
+ 
+ # Report Snapshot (Power BI DESKTOP)
+
+![Dashboard Upload](https://github.com/vip-99/Global-Terrorism-Analysis-Using-Power-BI/raw/main/Global%20Terrorism%20Power%20BI_page-0001.jpg)
