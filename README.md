@@ -8,7 +8,7 @@
 
 
 
-## Project Overview
+## Project Overview :-
 
 **Project Title**: Global Terrorism 
 
@@ -19,13 +19,13 @@
 
 
 
-## Problem Statement
+## Problem Statement :-
 This project is concerned with global terrorism data that is over the past few decades, what is the situation of the terrorism all over the globe. on the basis of the dataset, you have to build a dashboard to visualize the analysis of global terrorism.
 
 
 
 
-## Steps followed 
+## Steps followed :-
 1 ***Imported the Excel Terrorism Database into Power BI.***
 
 2 ***Removed Unwanted Columns.***
@@ -71,6 +71,14 @@ This project is concerned with global terrorism data that is over the past few d
 
 
 
+
+
+## Tags :-
+
+***#DataAnalysis #DataAnalyst #Excel #DataVisualization #BusinessIntelligence #SalesAnalytics***
+
+
+***Explore the power of data analytics and unlock valuable insights with this Global-Terrorism project! Feel free to reach out for any questions or collaborations. Happy analyzing! 🚀***
 
 
 
