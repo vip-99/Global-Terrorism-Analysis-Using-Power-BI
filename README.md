@@ -12,7 +12,7 @@
 
 **Project Title**: Global Terrorism 
 
-**Database**: ` Terrorism Database`
+**Dataset**: ` Terrorism Dataset`
 
 **Tools Used**:- ` Excel `, ` Power BI `
 
@@ -26,7 +26,7 @@ This project is concerned with global terrorism data that is over the past few d
 
 
 ## Steps followed :-
-1 ***Imported the Excel Terrorism Database into Power BI.***
+1 ***Imported the Excel Terrorism Dataset into Power BI.***
 
 2 ***Removed Unwanted Columns.***
 
